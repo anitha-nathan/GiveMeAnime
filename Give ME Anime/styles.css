@@ -1,0 +1,98 @@
+.op{
+    margin-top: 0x;
+    top: 0px;
+}
+.gma {
+position: fixed;
+}
+.blurb {
+    padding: 0px;
+}
+
+.blurb img{   
+    float: left;
+    margin-right: 0px;*/
+}
+
+.onepiece {
+    width:100%;
+}
+
+
+input[type=text] {
+    width: 95%;
+    margin-top: 20px;
+    margin-left: 10px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('m.png');
+    background-position: 7px 6px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 50px;
+
+}
+
+.aboutme{
+    width: 94%;
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 200px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    vertical-align:text-top;
+        font-family: verdana;
+}
+
+body {
+    margin:0;
+    font-family: verdana;
+    overflow: scroll;
+}
+
+img{ width: 100%; }
+
+
+.icon-bar2 {
+    width: 100%;
+    background-color: #f04844;
+    overflow: auto;
+    position: fixed;
+    bottom:0px;
+}
+
+
+.icon-bar {
+    width: 100%;
+    bottom: 10px;
+    background-color: #f04844;
+    overflow: auto;
+    position: fixed;
+    bottom: 0px;
+}
+
+.icon-bar a {
+    float: left;
+    width: 25%;
+    text-align: center;
+    padding: 12px 0;
+
+    color: white;
+    font-size: 36px;
+}
+
+.icon-bar a:hover {
+    background-color: #F2F8F8;
+}
+
+.active {
+    background-color: #53d6a3 !important;
+}
+
+.carousel{
+    z-index: -30;
+}
+
